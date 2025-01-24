@@ -12,7 +12,3 @@ winget install Neovim.Neovim
 start-sleep 1
 winget install Oracle.VirtualBox
 start-sleep 1
-
-
-
-
